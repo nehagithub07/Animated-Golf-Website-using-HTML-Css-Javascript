@@ -1,8 +1,19 @@
-# Animated Website
+# Animated Golf Website
 
 ## Description
 
-This project is a web application with interactive animations and custom cursor effects. It utilizes GSAP for animations and custom JavaScript for cursor interactions.
+This project is an interactive animated golf-themed website created using HTML, CSS, and JavaScript. The website features custom cursor effects and smooth animations powered by GSAP.
+
+## Live Demo
+
+You can view the live demo of the project [here](https://animated-golf-website-using-html-css-javascript.vercel.app/).
+
+## Tech Stack
+
+- **HTML**: Markup language for structuring the web page.
+- **CSS**: Stylesheet language for designing the look and layout of the web page.
+- **JavaScript**: Programming language for adding interactivity and animations.
+- **GSAP**: Library for animations and transitions.
 
 ## Files
 
@@ -49,4 +60,3 @@ This project is a web application with interactive animations and custom cursor 
 ## Contributing
 
 Feel free to fork the repository and make contributions. Please ensure any pull requests adhere to the project's code style and conventions.
-
